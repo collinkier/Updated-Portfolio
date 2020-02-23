@@ -1,0 +1,193 @@
+body{
+    border-style: solid;
+    border-color: #007BFF;
+    border-width: 10px;
+    background-image: URL("https://img.freepik.com/free-vector/seamless-pattern_1159-5086.jpg?size=626&ext=jpg");
+}
+
+
+.dropdown{
+    float: right;
+    margin-top: 0px;
+}
+
+
+#placeholder{
+    width: 150px;
+    height: 150px;
+    margin-right: 30px;
+}
+h1{ 
+    position: relative;
+    float: left;
+    margin-bottom: 40px;
+    color: white;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.dropdown{
+    margin-top: 10px;
+}
+
+.header{
+    background-color: white;
+    margin-bottom: 40px;
+}
+
+
+
+/* Index Page */
+
+#aboutI{
+    position: relative;
+    margin-top: 15px;
+    margin-bottom: 100px;
+    color: #007BFF
+}
+
+h5{
+    color: #007BFF;
+}
+
+.about{
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+}
+
+p{
+    font-family: "Courier New", Courier, monospace
+}
+
+/* Contact Page */
+
+.input{
+    position: relative;
+    margin: 50px;
+    background-color: white;
+    padding: 20px;
+}
+
+.form-group{
+    padding: 20px;
+}
+
+/* portfolio page */
+
+
+.card-body{
+    background-color: lightgrey;
+}
+
+
+.column {
+    position: relative;
+    float: left;
+    width: 40%;
+    height: 40%;
+    padding: 5px;
+  }
+  
+  
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .column2 {
+    position: relative;
+    float: left;
+    width: 40%;
+    padding: 5px;
+    height: 40%;
+    margin-left: 50px;
+    overflow: auto;
+  }
+
+  .firstBlockP{
+      position: relative; 
+      background-color: #ffffff;
+      height: 100%;
+      width: 70%;
+      /* text-align: center; */
+      padding: 20px;
+      margin-left: 15%;
+      margin-right: 15%;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      border-color: black;
+     
+  }
+
+  .pimages{
+      position: relative;
+      width: 240px;
+      height: 175px;
+      margin-left: 20px;
+  }
+
+  .row1{
+      position: relative;
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 40px;
+  }
+
+  .row2{
+    position: relative;
+    width: 100%;
+    padding: 10px;
+    margin-top: 150px;
+  }
+
+
+  h2{
+      margin-bottom: 40px;
+      color: #007BFF;
+      border-style: solid;
+      border-bottom-width: 2px;
+      border-top-width: 0px;
+      border-right-width: 0px;
+      border-left-width: 0px;
+      border-color: lightgray;
+  }
+
+  .contactP{
+    position: relative;
+    background-color: #007BFF;
+    margin-top: 50px;
+    margin-left: 0px;
+    margin-bottom: 20%;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+}
+
+button{
+    margin-top: 10px;
+}
+
+.card-body{
+    position: relative;
+    width: 100%;
+}
+
+.card-text{
+    position: relative;
+    width: 100%;
+}
+
+.card{
+    position: relative;
+    width: 75%;
+    margin-bottom: 20px;
+}
+
+.buttons{
+    color: white;
+
+}
